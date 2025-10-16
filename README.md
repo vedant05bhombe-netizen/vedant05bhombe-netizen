@@ -1,4 +1,5 @@
 # 💫 Vedant Bhombe
+
 **Full Stack Developer | Java • React • Spring Boot • PostgreSQL**
 
 Passionate developer focused on building practical and scalable solutions. I enjoy solving problems independently and creating projects that are both functional and elegant.
@@ -6,6 +7,7 @@ Passionate developer focused on building practical and scalable solutions. I enj
 ---
 
 ## 🌐 Connect with Me
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant05bhombe-netizen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhombe)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vedantbhombe)
@@ -13,6 +15,7 @@ Passionate developer focused on building practical and scalable solutions. I enj
 ---
 
 ## 💻 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,42 +27,48 @@ Passionate developer focused on building practical and scalable solutions. I enj
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant05bhombe-netizen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/vedant05bhombe-netizen)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant05bhombe-netizen&theme=radical&hide_border=false)](https://github.com/vedant05bhombe-netizen)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant05bhombe-netizen&theme=radical&hide_border=false&layout=compact)](https://github.com/vedant05bhombe-netizen)
+
+---
+
 ## 🧩 Key Projects
 
-**Hexis – AI Assistant**
-- AI assistant capable of responding to user queries in real-time.
-- Built with JavaScript and integrated APIs for practical functionality.
+### **Hexis – AI Assistant**
+- AI assistant capable of responding to user queries in real-time
+- Built with JavaScript and integrated APIs for practical functionality
 
-**Spring React Auth App**
-- Full-stack authentication app using Spring Boot and React.
-- Features secure login, registration, and JWT-based authorization.
+### **Spring React Auth App**
+- Full-stack authentication app using Spring Boot and React
+- Features secure login, registration, and JWT-based authorization
 
-**Hospital Management Backend**
-- REST API backend system for managing patients, staff, and appointments.
-- Developed using Spring Boot and PostgreSQL for reliability and scalability.
+### **Hospital Management Backend**
+- REST API backend system for managing patients, staff, and appointments
+- Developed using Spring Boot and PostgreSQL for reliability and scalability
 
 ---
 
 ## 🧠 Strengths
-- Fast Learner
-- Excellent Time Management
-- Independent Problem Solver
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vedant05bhombe-netizen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedant05bhombe-netizen&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant05bhombe-netizen&theme=radical&hide_border=false&layout=compact)
+- **Fast Learner** - Quick to grasp new technologies and frameworks
+- **Excellent Time Management** - Prioritizing and delivering on schedule
+- **Independent Problem Solver** - Self-reliant developer who loves debugging
 
 ---
 
 ## 🏆 Achievements
+
 - Preparing for **TCS CodeVita 2025**
 - Developed multiple full-stack projects independently
 - Teaching coding on YouTube
 
 ---
 
-### ✍️ Motto
+## ✍️ Motto
+
 > "Build, learn, and grow — one project at a time."
