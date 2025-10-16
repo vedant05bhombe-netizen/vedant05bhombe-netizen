@@ -7,8 +7,8 @@ Passionate developer focused on building practical and scalable solutions. I enj
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant05bhombe-netizen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-eon)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhombe)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vedantbhombe)
 
 ---
 
@@ -25,24 +25,25 @@ Passionate developer focused on building practical and scalable solutions. I enj
 ---
 
 ## 🧩 Key Projects
-**Hexis – AI Assistant**  
-- AI assistant capable of responding to user queries in real-time.  
-- Built with JavaScript and integrated APIs for practical functionality.  
 
-**Spring React Auth App**  
-- Full-stack authentication app using Spring Boot and React.  
-- Features secure login, registration, and JWT-based authorization.  
+**Hexis – AI Assistant**
+- AI assistant capable of responding to user queries in real-time.
+- Built with JavaScript and integrated APIs for practical functionality.
 
-**Hospital Management Backend**  
-- REST API backend system for managing patients, staff, and appointments.  
-- Developed using Spring Boot and PostgreSQL for reliability and scalability.  
+**Spring React Auth App**
+- Full-stack authentication app using Spring Boot and React.
+- Features secure login, registration, and JWT-based authorization.
+
+**Hospital Management Backend**
+- REST API backend system for managing patients, staff, and appointments.
+- Developed using Spring Boot and PostgreSQL for reliability and scalability.
 
 ---
 
 ## 🧠 Strengths
-- Fast Learner  
-- Excellent Time Management  
-- Independent Problem Solver  
+- Fast Learner
+- Excellent Time Management
+- Independent Problem Solver
 
 ---
 
@@ -54,11 +55,11 @@ Passionate developer focused on building practical and scalable solutions. I enj
 ---
 
 ## 🏆 Achievements
-- Preparing for **TCS CodeVita 2025**  
-- Developed multiple full-stack projects independently  
-- Teaching coding on YouTube  
+- Preparing for **TCS CodeVita 2025**
+- Developed multiple full-stack projects independently
+- Teaching coding on YouTube
 
 ---
 
 ### ✍️ Motto
-> “Build, learn, and grow — one project at a time.”
+> "Build, learn, and grow — one project at a time."
