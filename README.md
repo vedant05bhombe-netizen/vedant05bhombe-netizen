@@ -67,9 +67,10 @@ Passionate developer focused on building practical and scalable solutions. I enj
 
 ## 🏆 Achievements
 
-- Preparing for **TCS CodeVita 2025**
+
 - Developed multiple full-stack projects independently
-- Teaching coding on YouTube
+- Developed multiple Backend and frontend projects separately
+
 
 ---
 
