@@ -1,4 +1,4 @@
-# 💫 Vedant Bhombe (Rick)
+# 💫 Vedant Bhombe
 **Full Stack Developer | Java • React • Spring Boot • PostgreSQL**
 
 Passionate developer focused on building practical and scalable solutions. I enjoy solving problems independently and creating projects that are both functional and elegant.
