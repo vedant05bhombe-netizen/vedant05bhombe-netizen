@@ -39,7 +39,7 @@ I'm a full-stack developer with a strong foundation in **Java, React, and Spring
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=vedant05bhombe-netizen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=vedant05bhombe-netizen&theme=radical)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=vedant05bhombe-netizen&theme=radical&hide_border=false)](https://github.com/vedant05bhombe-netizen)
 
