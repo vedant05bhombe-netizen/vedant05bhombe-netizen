@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant05bhombe-netizen)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-bhombe-01a865290/)&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vedantbhombe)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=vedant05bhombe-netizen&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=vedant05bhombe-netizen&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,11 +22,10 @@
 ```java
 public class Vedant extends FullStackDeveloper {
 
-    String   location  = "Amravati, Maharashtra 🇮🇳";
-    String[] stack     = { "Java", "Spring Boot", "React", "PostgreSQL" };
-    String[] interests = { "AI Tools", "Deepfake Detection", "Full-Stack Apps" };
-    int      projects  = 14;
-    String   motto     = "Build, learn, and grow — one project at a time.";
+    String   location = "Sangli, Maharashtra 🇮🇳";
+    String[] stack    = { "Java", "Spring Boot", "React", "PostgreSQL" };
+    String[] building = { "Scalable REST APIs", "Full-Stack Apps", "AI Integrations" };
+    String   motto    = "Build, learn, and grow — one project at a time.";
 
     boolean solvesProblemsIndependently() { return true; }
     boolean isAlwaysLearning()            { return true; }
@@ -55,29 +54,27 @@ public class Vedant extends FullStackDeveloper {
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Hexis — Personal AI Assistant
-> AI WebApp with real-time query responses
+### 🤖 Hexis — AI Assistant
+> Real-time AI assistant with live API integrations
 
-- 🧠 Personal AI assistant interface
+- ⚡ Real-time query response engine
 - 🔗 Integrated external APIs
-- ⚡ Real-time functionality
+- 🧠 Practical, functional AI interface
 
 `JavaScript` &nbsp; `REST APIs` &nbsp; `AI`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Hexis----An-Personal-AI-Assistant)
 
 </td>
 <td width="50%" valign="top">
@@ -91,8 +88,6 @@ public class Vedant extends FullStackDeveloper {
 
 `Spring Boot` &nbsp; `React` &nbsp; `JWT`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/spring-react-auth-app-fullstack)
-
 </td>
 </tr>
 <tr>
@@ -105,23 +100,19 @@ public class Vedant extends FullStackDeveloper {
 - 📅 Appointment scheduling
 - 🗄️ Scalable PostgreSQL architecture
 
-`Java` &nbsp; `Spring Boot` &nbsp; `REST`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Hospital-Management)
+`Spring Boot` &nbsp; `PostgreSQL` &nbsp; `REST`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Student Management System
-> Full-stack student management app
+### 🎬 Cinesearch — Movie Database
+> All movie details at one place
 
-- 📋 Full CRUD operations
-- 🔗 Spring Boot backend + PostgreSQL
-- 🖥️ Clean frontend interface
+- 🎥 Full movie info & search
+- ⚡ Fast React frontend
+- 🔗 External movie API integration
 
-`Java` &nbsp; `Spring Boot` &nbsp; `PostgreSQL`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Student-Management-System)
+`React` &nbsp; `JavaScript` &nbsp; `API`
 
 </td>
 </tr>
@@ -129,89 +120,25 @@ public class Vedant extends FullStackDeveloper {
 <td width="50%" valign="top">
 
 ### 🛡️ Sentinel — Deepfake & URL Detector
-> AI-powered deepfake + malicious URL classifier
+> AI-powered media & link safety tool
 
-- 🕵️ Detects AI-edited images & videos
-- 🔗 Malicious URL detection
-- 🧠 ML-based classification engine
+- 🧠 Deepfake image/video detection
+- 🔗 Malicious URL classifier
+- 🐍 Python-based ML pipeline
 
 `Python` &nbsp; `AI/ML` &nbsp; `JavaScript`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Sentinel)
-
 </td>
 <td width="50%" valign="top">
 
-### 🎬 CineSearch — Movie Database App
-> Browse & search movies in one place
-
-- 🎥 Full movie details at a glance
-- 🔍 Search functionality
-- ⚛️ Built with React
-
-`JavaScript` &nbsp; `React` &nbsp; `API`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Cinesearch-React-App-A-Movie-Database-)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📰 News App
-> Live news with keyword search
-
-- 📡 Fetches real-time headlines
-- 🔍 Search news by keywords
-- ⚡ Fast, clean UI
-
-`JavaScript` &nbsp; `REST API`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/News-App-)
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ To-Do App
-> Clean task management app built with React
-
-- 📝 Add, complete & delete tasks
-- ⚛️ React state management
-- 🎨 Clean minimal UI
-
-`JavaScript` &nbsp; `React`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/To-Do-App-React)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌤️ Weather App
-> Real-time weather data via API
+### ☁️ Weather App React
+> Live weather with current data
 
 - 🌍 Fetches live weather by location
-- 📊 Current conditions at a glance
-- ⚛️ Built with React
+- ⚛️ Clean React UI
+- 🔗 Weather API integration
 
-`JavaScript` &nbsp; `React` &nbsp; `Weather API`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Weather-App-React)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 ATS Resume Builder
-> Resume builder with ATS score checker
-
-- 📋 Build ATS-optimized resumes
-- 📈 Score checking from scratch
-- 🖊️ Clean builder interface
-
-`JavaScript`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/ATS-resume-builder)
+`React` &nbsp; `JavaScript` &nbsp; `API`
 
 </td>
 </tr>
@@ -224,10 +151,10 @@ public class Vedant extends FullStackDeveloper {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant05bhombe-netizen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant05bhombe-netizen&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant05bhombe-netizen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant05bhombe-netizen&theme=radical&hide_border=true"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant05bhombe-netizen&theme=tokyonight&layout=compact&langs_count=8&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant05bhombe-netizen&theme=radical&layout=compact&langs_count=8&hide_border=true"/>
 
 </div>
 
