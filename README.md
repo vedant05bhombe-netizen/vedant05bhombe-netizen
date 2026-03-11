@@ -1,231 +1,248 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Vedant%20Bhombe&fontSize=75&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20React%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20PostgreSQL&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+scalable+full-stack+solutions+from+scratch;☕+Java+backend+engineer+%7C+⚛️+React+frontend+dev;🔐+JWT+auth+%7C+🐘+PostgreSQL+%7C+🌱+Spring+Boot;💡+Independent+builder+who+ships+real+projects;🇮🇳+Based+in+Sangli%2C+Maharashtra)](https://github.com/vedant05bhombe-netizen)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vedant%20Bhombe&fontSize=70&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/vedant05bhombe-netizen"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/vedant-bhombe-01a865290/"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://youtube.com/@vedantbhombe"><img src="https://img.shields.io/badge/YouTube-24243e?style=for-the-badge&logo=youtube&logoColor=FF4444"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=vedant05bhombe-netizen&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=☕+Java+%7C+⚛️+React+%7C+🌱+Spring+Boot+%7C+🐘+PostgreSQL;🚀+Building+scalable+full-stack+solutions;🔧+Independent+problem+solver+%26+fast+learner;💡+%22Build%2C+learn%2C+and+grow+—+one+project+at+a+time.%22)](https://github.com/vedant05bhombe-netizen)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant05bhombe-netizen)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-bhombe-01a865290/)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vedantbhombe)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=vedant05bhombe-netizen&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=vedant05bhombe-netizen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=8b949e&ring_color=7c3aed"/>
-
-## 🧑‍💻 &nbsp;Who Am I?
+## 🧑‍💻 About Me
 
 ```java
-Developer vedant = new Developer();
+public class Vedant extends FullStackDeveloper {
 
-vedant.name      = "Vedant Bhombe";
-vedant.location  = "Sangli, Maharashtra 🇮🇳";
-vedant.stack     = new String[]{
-    "Java", "Spring Boot",
-    "React", "PostgreSQL"
-};
-vedant.strengths = new String[]{
-    "Independent builder",
-    "Fast learner",
-    "Clean code advocate"
-};
-vedant.currentlyBuilding = "Something awesome...";
-vedant.motto = "Build, learn & grow — " +
-               "one project at a time.";
+    String   location  = "Amravati, Maharashtra 🇮🇳";
+    String[] stack     = { "Java", "Spring Boot", "React", "PostgreSQL" };
+    String[] interests = { "AI Tools", "Deepfake Detection", "Full-Stack Apps" };
+    int      projects  = 14;
+    String   motto     = "Build, learn, and grow — one project at a time.";
+
+    boolean solvesProblemsIndependently() { return true; }
+    boolean isAlwaysLearning()            { return true; }
+}
 ```
-
-<br clear="right"/>
 
 ---
 
-## 🛠️ &nbsp;Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br/><sub><b>Spring Boot</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub><b>CSS3</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=maven" width="48"/><br/><sub><b>Maven</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub><b>Postman</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=idea" width="48"/><br/><sub><b>IntelliJ</b></sub>
-</td>
-</tr>
-</table>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Security
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 &nbsp;Projects That Ship
+## 🚀 Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🤖 Hexis — AI Assistant</h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00d26a?style=flat-square&logo=statuspage&logoColor=white"/>
 
-> AI assistant that responds to queries in real-time using integrated external APIs
+### 🤖 Hexis — Personal AI Assistant
+> AI WebApp with real-time query responses
 
-**Highlights**
-- ⚡ Real-time query response engine
-- 🔗 Multi-API integration layer
-- 🧠 Clean conversational UX
+- 🧠 Personal AI assistant interface
+- 🔗 Integrated external APIs
+- ⚡ Real-time functionality
 
-<br/>
+`JavaScript` &nbsp; `REST APIs` &nbsp; `AI`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Hexis----An-Personal-AI-Assistant)
 
 </td>
 <td width="50%" valign="top">
-<h3>🔐 Spring React Auth App</h3>
-<img src="https://img.shields.io/badge/STATUS-COMPLETE-00d26a?style=flat-square&logo=statuspage&logoColor=white"/>
 
-> End-to-end secure authentication built entirely from scratch
+### 🔐 Spring React Auth App
+> Secure full-stack authentication from scratch
 
-**Highlights**
-- 🔒 Full login & registration flow
-- 🎫 Stateless JWT authorization
-- 🔄 Seamless React + Spring Boot sync
+- 🔒 Login & registration system
+- 🎫 JWT-based authorization
+- 🔄 Full React + Spring Boot integration
 
-<br/>
+`Spring Boot` &nbsp; `React` &nbsp; `JWT`
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/spring-react-auth-app-fullstack)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🏥 Hospital Management API</h3>
-<img src="https://img.shields.io/badge/STATUS-COMPLETE-00d26a?style=flat-square&logo=statuspage&logoColor=white"/>
 
-> Production-grade REST API backend for healthcare operations
+### 🏥 Hospital Management API
+> Production-ready backend REST API
 
-**Highlights**
-- 👤 Patient, staff & appointment CRUD
-- 📅 Scheduling system architecture
-- 🗄️ Normalized PostgreSQL schema
+- 👤 Patient & staff management
+- 📅 Appointment scheduling
+- 🗄️ Scalable PostgreSQL architecture
 
-<br/>
+`Java` &nbsp; `Spring Boot` &nbsp; `REST`
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Hospital-Management)
 
 </td>
 <td width="50%" valign="top">
-<h3>🔧 Next Project</h3>
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-f59e0b?style=flat-square&logo=statuspage&logoColor=white"/>
 
-> Something new is on the way...
+### 🎓 Student Management System
+> Full-stack student management app
 
-<br/><br/>
+- 📋 Full CRUD operations
+- 🔗 Spring Boot backend + PostgreSQL
+- 🖥️ Clean frontend interface
 
-```
-> Initializing ideas...   ✓
-> Writing clean code...   ✓
-> Shipping soon...        ⏳
-```
+`Java` &nbsp; `Spring Boot` &nbsp; `PostgreSQL`
 
-<br/>
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Student-Management-System)
 
-*Watch this space 👀*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Sentinel — Deepfake & URL Detector
+> AI-powered deepfake + malicious URL classifier
+
+- 🕵️ Detects AI-edited images & videos
+- 🔗 Malicious URL detection
+- 🧠 ML-based classification engine
+
+`Python` &nbsp; `AI/ML` &nbsp; `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Sentinel)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 CineSearch — Movie Database App
+> Browse & search movies in one place
+
+- 🎥 Full movie details at a glance
+- 🔍 Search functionality
+- ⚛️ Built with React
+
+`JavaScript` &nbsp; `React` &nbsp; `API`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Cinesearch-React-App-A-Movie-Database-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 News App
+> Live news with keyword search
+
+- 📡 Fetches real-time headlines
+- 🔍 Search news by keywords
+- ⚡ Fast, clean UI
+
+`JavaScript` &nbsp; `REST API`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/News-App-)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ To-Do App
+> Clean task management app built with React
+
+- 📝 Add, complete & delete tasks
+- ⚛️ React state management
+- 🎨 Clean minimal UI
+
+`JavaScript` &nbsp; `React`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/To-Do-App-React)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌤️ Weather App
+> Real-time weather data via API
+
+- 🌍 Fetches live weather by location
+- 📊 Current conditions at a glance
+- ⚛️ Built with React
+
+`JavaScript` &nbsp; `React` &nbsp; `Weather API`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/Weather-App-React)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 ATS Resume Builder
+> Resume builder with ATS score checker
+
+- 📋 Build ATS-optimized resumes
+- 📈 Score checking from scratch
+- 🖊️ Clean builder interface
+
+`JavaScript`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github)](https://github.com/vedant05bhombe-netizen/ATS-resume-builder)
 
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant05bhombe-netizen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant05bhombe-netizen&theme=tokyonight&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant05bhombe-netizen&theme=tokyonight&layout=compact&langs_count=8&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## ⚡ What I Bring
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant05bhombe-netizen&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&stroke=a78bfa"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant05bhombe-netizen&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant05bhombe-netizen&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vedant05bhombe-netizen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
-
-</div>
-
----
-
-## ⚡ &nbsp;What Makes Me Different
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ⚡ FAST LEARNER      →  New tech? Learned. Shipped. Done.   ║
-║  🔧 SOLO BUILDER      →  Idea to product, zero hand-holding  ║
-║  ⏱️ TIME-CONSCIOUS    →  Deadlines met. Quality kept.        ║
-║  🎯 CLEAN CODE        →  Readable. Scalable. Maintainable.   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| | Trait | Description |
+|:-:|:------|:------------|
+| ⚡ | **Fast Learner** | Pick up new tech and ship with it — fast |
+| 🔧 | **Independent Builder** | Idea → deployed product, completely solo |
+| ⏱️ | **Time-Conscious** | Consistent delivery without killing quality |
+| 🎯 | **Clean Code Mindset** | Readable, maintainable, scalable — always |
 
 </div>
 
@@ -233,26 +250,21 @@ vedant.motto = "Build, learn & grow — " +
 
 <div align="center">
 
-### 🤝 &nbsp;Open to Collabs & Opportunities
+### 💬 Let's Build Something Great
+
+*Open to collabs, interesting projects, and new opportunities*
 
 <br/>
 
-<a href="https://github.com/vedant05bhombe-netizen"><img src="https://img.shields.io/badge/⭐_Star_My_Repos-0f0c29?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/vedant-bhombe-01a865290/"><img src="https://img.shields.io/badge/💼_Let's_Connect-302b63?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://youtube.com/@vedantbhombe"><img src="https://img.shields.io/badge/▶_My_Channel-24243e?style=for-the-badge&logo=youtube&logoColor=FF4444"/></a>
+[![Explore My Work](https://img.shields.io/badge/Explore%20My%20Work-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant05bhombe-netizen)&nbsp;
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-bhombe-01a865290/)
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-<br/><br/>
+<br/>
 
 > *"Build, learn, and grow — one project at a time."*
 >
 > **— Vedant Bhombe**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
