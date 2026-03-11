@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vedant%20Bhombe&fontSize=70&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=220&section=header&text=Vedant%20Bhombe&fontSize=70&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=☕+Java+%7C+⚛️+React+%7C+🌱+Spring+Boot+%7C+🐘+PostgreSQL;🚀+Building+scalable+full-stack+solutions;🔧+Independent+problem+solver+%26+fast+learner;💡+%22Build%2C+learn%2C+and+grow+—+one+project+at+a+time.%22)](https://github.com/vedant05bhombe-netizen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=F85D7F&center=true&vCenter=true&width=650&lines=☕+Java+%7C+⚛️+React+%7C+🌱+Spring+Boot+%7C+🐘+PostgreSQL;🚀+Building+scalable+full-stack+solutions;🔧+Independent+problem+solver+%26+fast+learner;💡+%22Build%2C+learn%2C+and+grow+—+one+project+at+a+time.%22)](https://github.com/vedant05bhombe-netizen)
 
 <br/>
 
@@ -124,7 +124,7 @@ public class Vedant extends FullStackDeveloper {
 
 - 🧠 Deepfake image/video detection
 - 🔗 Malicious URL classifier
-- 🐍 Python-based ML pipeline
+- 🐍 Python ML pipeline
 
 `Python` &nbsp; `AI/ML` &nbsp; `JavaScript`
 
@@ -192,6 +192,6 @@ public class Vedant extends FullStackDeveloper {
 >
 > **— Vedant Bhombe**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=120&section=footer" width="100%"/>
 
 </div>
